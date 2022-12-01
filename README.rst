@@ -56,6 +56,33 @@ Documentation is available at https://pyde1.readthedocs.io/en/latest/
 
 Source code is available at https://github.com/jeffsf/pyDE1.git
 
+Code of Conduct
+---------------
+
+Even though we are a small subset of the much larger Coffee community, 
+we subscribe to the same high standards of inclusion and open discussion.  
+We encourage healthy debate and the sharing of knowledge without fear
+of personal attacks or general negativity.  Our main goal with this project
+is to push the limits of our tools in the hopes of furthering our 
+understanding of this delicious beverage we call coffee.  Any and all
+suggestions are welcome as long as they are of positive intent.  Thank you
+for your efforts and we look forward to your contribution.
+
+Community Discussion
+--------------------
+
+As an owner of a Decent Espresso Machine, general support and information
+is freely available via accessing the Decent Diaspora in Basecamp.  However,
+if you would like a more focused discussion concerning matters surrounding
+pyDE1, then I suggest joining the Decent Community Discord by following these steps:
+1. Search for the 'Decent Community Discord' thread in the Decent Diaspora in Basecamp
+2. Respond to the thread the message "Ready" 
+3. Click the following server link: https://discord.gg/3mJ2rM99cb
+4. Register for a Discord account if you don't already have one.
+    a. Make sure your Discord name matches your Diaspora username
+5. Once you've joined the Discord server, type "Ready" in the 
+    welcome channel and you will be given permissions for the server
+
 
 Requirements
 ------------
